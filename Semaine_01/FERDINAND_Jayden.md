@@ -8,4 +8,5 @@ https://teams.microsoft.com/l/message/48:notes/1706668462622?context=%7B%22conte
 
 ## **Intérêts dans le multimédia**
 
+Je cherche un travail qui se fait beaucoup sur l'ordis auquel on peut du montage vidéo et crée des trucs. Le multimédia demande beaucoup de créativité et donc je crois que se cours est qualifié pour moi
 
