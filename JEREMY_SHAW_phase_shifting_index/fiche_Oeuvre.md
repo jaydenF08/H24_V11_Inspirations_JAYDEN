@@ -4,7 +4,7 @@ Je n'ai jamais vraiment assisté à une exposition de ma vie mais celle-ci m'a p
 
 
 # Aperçu d'une des troupes qui "dansait"
-![photo](IMG_9858[1].JPG)
+![photo](photo_JF_troupedanse)
 
 
 
