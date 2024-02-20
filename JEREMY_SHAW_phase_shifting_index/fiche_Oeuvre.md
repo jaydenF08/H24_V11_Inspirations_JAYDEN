@@ -1,5 +1,7 @@
 # Mon avis sur cette expérience
 
+## Nom de l'exposition
+
 L'exposition de Jeremy Shaw: Phase Shifting Index, réalisé en 2020, se déroulait le 31 janvier 2024 à la Fonderie Darling dans une salle moyennement grande avec quelques projecteurs un peu partout. Je n'ai jamais vraiment assisté à une 
 
 exposition de ma vie mais celle-ci m'a permis de découvrir un peu à quoi consiste une exposition, qui est un événement qui attise la curiosité du public et qui permet de montrer l'art d'une différente manière. Pour 
