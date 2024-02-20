@@ -32,9 +32,11 @@ Réalisé en 2020
  ## Se qui m'a plu et mon expérience vécue
  
  Je n'ai jamais vraiment assisté à une 
-exposition de ma vie mais celle-ci m'a permis de découvrir un peu à quoi consiste une exposition, qui est un événement qui attise la curiosité du public et qui permet de montrer l'art d'une différente manière. Pour commencer, j'ai trouvé très agréable de profiter de cette exposition avec de très doux tapis car cela à permis de profiter de cette expérience confortablement que se soit, assis où coucher. Cet au choix du visiteur de déterminer  comment ils veut profité de cette activité. Cette exposition explore  différente pratique de la transcendance à travers les projecteurs suivi d'une bande sonore qui permet de rendre cette activité 
+exposition de ma vie mais celle-ci m'a permis de découvrir un peu à quoi consiste une exposition, qui est un événement qui attise la curiosité du public et qui permet de montrer l'art d'une différente manière. Pour commencer, j'ai trouvé très agréable de profiter de cette exposition avec de très doux tapis car cela à permis de profiter de cette expérience confortablement que se soit, assis où coucher. Cet au choix du visiteur de déterminer  comment ils veut profité de cette activité. Cette exposition explore  différente pratique de la transcendance à travers les projecteurs suivi d'une bande sonore qui permet de rendre cette activité immersive.
 
-immersive. Les vidéos présentaient chacun une troupe qui dansait de manière un peu différente mais du même objectif qui est d'entrer sous l'état de la transcendance. Quelques minutes plus tard, la musique devenait de 
+## Description de l'oeuvre
+
+Les écrans présentaient des vidéos qui montraient une troupe qui dansait de manière un peu différente des autre troupe des autres écrans mais avec le même objectif qui est d'entrer sous l'état de la transcendance, accompagné d'une bande sonore qui rendait l'exposition immersive. Quelques minutes plus tard, la musique devenait de 
 
 plus en plus intense jusqu'a se que les différents danseurs avait atteint leur objectif de transe. j'ai trouvé intéressant qu'ils effectuaient tous la même danse, tout le monde dans la pièce qui profitait de cette 
 
