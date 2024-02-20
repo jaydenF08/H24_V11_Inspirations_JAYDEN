@@ -4,22 +4,27 @@
 
  Phase Shifting Index
 
-## année de réalisation
+
+## Année de réalisation
 
 Réalisé en 2020 
+
 
 ## Date de visite
 
  Le 31 janvier 2024 
 
+
 ## Lieu de mise en exposition
  
  À la Fonderie Darling 
 
+ 
  ## Type d'exposition
  
  Dans une salle moyennement grande avec quelques projecteurs et des écrans. 
 
+ 
  ## Nom de l'artiste
 
  L'exposition de Jeremy Shaw:
