@@ -28,15 +28,11 @@ Réalisé en 2020
  ## Nom de l'artiste
 
  L'exposition de Jeremy Shaw:
- 
+
+ ## Se qui m'a plu et mon expérience vécue
  
  Je n'ai jamais vraiment assisté à une 
-
-exposition de ma vie mais celle-ci m'a permis de découvrir un peu à quoi consiste une exposition, qui est un événement qui attise la curiosité du public et qui permet de montrer l'art d'une différente manière. Pour 
-
-commencer, j'ai trouvé très agréable de profiter de cette exposition avec de très doux tapis car cela à permis de profiter de cette expérience confortablement que se soit, assis où coucher. Cet au choix du visiteur de 
-
-déterminer  comment ils veut profité de cette activité. Cette exposition explore  différente pratique de la transcendance à travers les projecteurs suivi d'une bande sonore qui permet de rendre cette activité 
+exposition de ma vie mais celle-ci m'a permis de découvrir un peu à quoi consiste une exposition, qui est un événement qui attise la curiosité du public et qui permet de montrer l'art d'une différente manière. Pour commencer, j'ai trouvé très agréable de profiter de cette exposition avec de très doux tapis car cela à permis de profiter de cette expérience confortablement que se soit, assis où coucher. Cet au choix du visiteur de déterminer  comment ils veut profité de cette activité. Cette exposition explore  différente pratique de la transcendance à travers les projecteurs suivi d'une bande sonore qui permet de rendre cette activité 
 
 immersive. Les vidéos présentaient chacun une troupe qui dansait de manière un peu différente mais du même objectif qui est d'entrer sous l'état de la transcendance. Quelques minutes plus tard, la musique devenait de 
 
