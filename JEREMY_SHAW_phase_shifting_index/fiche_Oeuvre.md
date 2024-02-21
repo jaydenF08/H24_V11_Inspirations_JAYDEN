@@ -36,13 +36,9 @@ exposition de ma vie mais celle-ci m'a permis de découvrir un peu à quoi consi
 
 ## Description de l'oeuvre
 
-Les écrans présentaient des vidéos qui montraient une troupe qui dansait de manière un peu différente des autre troupe des autres écrans mais avec le même objectif qui est d'entrer sous l'état de la transcendance, accompagné d'une bande sonore qui rendait l'exposition immersive. Quelques minutes plus tard, la musique devenait de 
+Les écrans présentaient des vidéos qui montraient une troupe qui dansait de manière un peu différente des autre troupe des autres écrans mais avec le même objectif qui est d'entrer sous l'état de la transcendance, accompagné d'une bande sonore qui rendait l'exposition immersive. Quelques minutes plus tard, la musique devenait de plus en plus intense jusqu'a se que les différents danseurs avait atteint leur objectif de transe. j'ai trouvé intéressant qu'ils effectuaient tous la même danse, tout le monde dans la pièce qui profitait de cette activité tout comme moi avait cesser de faire du bruit, étonné par ce changement aussi soudain. J'ai bien aimé l'effet de bug d'ordinateur lorsque le danseurs étaient en transe car cela nous permettais de comprendre la sensation d'être en transe.
 
-plus en plus intense jusqu'a se que les différents danseurs avait atteint leur objectif de transe. j'ai trouvé intéressant qu'ils effectuaient tous la même danse, tout le monde dans la pièce qui profitait de cette 
-
-activité tout comme moi avait cesser de faire du bruit, étonné par ce changement aussi soudain. J'ai bien aimé l'effet de bug d'ordinateur lorsque le danseurs étaient en transe car cela nous permettais de comprendre 
-
-la sensation d'être en transe.
+## Type d'installation: Vaste installation vidéo immersive à sept canaux
 
 
 # Aperçu d'une des troupes qui "dansait"
