@@ -42,6 +42,14 @@ Les écrans présentaient des vidéos qui montraient une troupe qui dansait de m
 
 ![media](media/photo_JF_installation.jpg)
 
+![media](media/photo_JF_installation.JPG)
+
+## Mise en espace
+
+l'exposition dispose de doux tapis et des bancs qui permet de mieux profitié de cette exhibition.
+
+![media](media/photo_JF_plan.jpeg)
+
 # Aperçu d'une des troupes qui "dansait"
 ![photo]()
 
