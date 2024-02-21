@@ -40,7 +40,7 @@ Les écrans présentaient des vidéos qui montraient une troupe qui dansait de m
 
 ## Type d'installation: Vaste installation vidéo immersive à sept canaux
 
-![media](media/photo_JF_installation.jpg)
+![media](media/photo_JF_espace.jpeg)
 
 ![media](media/photo_JF_installation.JPG)
 
@@ -49,6 +49,12 @@ Les écrans présentaient des vidéos qui montraient une troupe qui dansait de m
 l'exposition dispose de doux tapis et des bancs qui permet de mieux profitié de cette exhibition.
 
 ![media](media/photo_JF_plan.jpeg)
+
+![media](media/photo_JF_espace2.jpeg)
+
+![media](media/photo_Jf_espace3.jpeg)
+
+
 
 # Aperçu d'une des troupes qui "dansait"
 ![photo]()
