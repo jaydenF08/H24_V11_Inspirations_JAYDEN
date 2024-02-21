@@ -40,6 +40,7 @@ Les écrans présentaient des vidéos qui montraient une troupe qui dansait de m
 
 ## Type d'installation: Vaste installation vidéo immersive à sept canaux
 
+![media](media/photo_JF_installation.jpg)
 
 # Aperçu d'une des troupes qui "dansait"
 ![photo]()
