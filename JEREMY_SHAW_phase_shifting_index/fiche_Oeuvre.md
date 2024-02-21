@@ -1,8 +1,9 @@
 # Mon avis sur cette expérience
 
-## Nom de l'exposition
+## Nom de l'exposition : Phase Shifting Index
+![media](media/photo_JF_affiche.jpg)
 
- Phase Shifting Index
+ 
 
 
 ## Année de réalisation
