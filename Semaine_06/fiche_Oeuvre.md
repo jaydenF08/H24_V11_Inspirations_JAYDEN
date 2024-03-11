@@ -21,15 +21,19 @@ Lava Cave est une installation immersive multisensorielle réalisée par Aude Gu
 
 Source : https://ageofunion.com/fr/articles/2023/04/18/age-of-union-annonce-la-saison-printemps-ete-2023-du-centre-terre/
 
-## Description de l'oeuvre: L'Écosystème Alpha
+## Description de l'oeuvre : L'Écosystème Alpha
 
 ÉCOSYSTÈME ALPHA d’Aude Guivarc’h, est une allégorie de l’état de notre planète et de l’impact des humains. Elle renvoie à l’expression « Il n’y a pas de planète B », avec un relief montagneux imprimé en 3D avec des projections de cycles naturels, de l’eau, du vent, de l’érosion et des changements de saison. Toutefois, si on avance trop près et qu’on obstrue la projection (ou, pire encore, si on touche à sa surface), l’œuvre réagit et génère une séquence de destruction, illustrant ainsi la responsabilité humaine devant la destruction de l’environnement.
 
 source : https://ageofunion.com/fr/articles/2022/04/22/age-of-union-lance-le-centre-terrestre-a-montreal   
 
-## Type d'installation: Lava cave
+## Type d'installation : Lava cave
 
 l'exposition Lava Cave comporte des leds rouges qui contrastait bien la couleur d'une zone magmatique et le projecteur, projetait au sol un sol magmatique très réaliste qui améliore l'expérience d'être au coeur de la planète. L'oeuvre magmatique comportait trois senseurs de pression, tout comme une mère, elle n'apprécie pas les gestes violents, mais réagit à l'intensité et la durée de la pression mise sur les capteurs et une surpise vous attend avec un effort collectif! l'oeuvre comportait des haut-parleurs qui projetait des sons d'un volcans en éruption se qui rendait l'oeuvre plus intense.
 l'oeuvre comportait 4 places à l'apparence de rocher volcanique se qui améliorait l'immersion
+
+## Type d'installation : L'Écosystème Alpha
+
+
 
 
