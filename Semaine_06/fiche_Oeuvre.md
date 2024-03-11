@@ -33,7 +33,15 @@ l'exposition Lava Cave comporte des leds rouges qui contrastait bien la couleur 
 l'oeuvre comportait 4 places à l'apparence de rocher volcanique se qui améliorait l'immersion
 
 ## Type d'installation : L'Écosystème Alpha
-L'exposition comportait un projecteur sur la plateforme 3D qui
+L'exposition interactive comportait un projecteur sur la plateforme 3D qui montrait les cycles naturels et lorsqu'on pertubait le projecteur l'oeuvre réagit et nous montre une séquence de destruction
+
+## Mise en espace
+
+## Composantes et techniques
+
+## Éléments nécessaires à la mise en exposition
+
+## Expérience vécue
 
 
 
