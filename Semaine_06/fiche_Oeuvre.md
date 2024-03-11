@@ -11,5 +11,6 @@ Les expositions se déroulait dans un batiment comme une sorte de galerie d'art 
 
 ## Titre de l'eouvre : Lava Cave et Écosystème Alpha
 
+## Nom de l'artiste : Aude Guivarc’h 
 
 
