@@ -29,7 +29,7 @@ source : https://ageofunion.com/fr/articles/2022/04/22/age-of-union-lance-le-cen
 
 ## Type d'installation: Lava cave
 
-l'exposition Lava Cave comporte des leds rouges qui nous permet de nous faire sentir qu'on est vraiment dans une chambre magmatique et le projecteur qui projecte au sol un sol magmatique très réaliste qui améliore l'expérience d'être au coeur de la planète. L'oeuvre magmatique comportait trois senseurs de pression, tout comme une mère, elle n'apprécie pas les gestes violents, mais réagit à l'intensité et la durée de la pression mise sur les capteurs et une surpise vous attend avec un effort collectif! l'oeuvre comportait des haut-parleurs qui projetait des sons d'un volcans en éruption se qui rendait l'oeuvre plus intense.
+l'exposition Lava Cave comporte des leds rouges qui contrastait bien la couleur d'une zone magmatique et le projecteur, projetait au sol un sol magmatique très réaliste qui améliore l'expérience d'être au coeur de la planète. L'oeuvre magmatique comportait trois senseurs de pression, tout comme une mère, elle n'apprécie pas les gestes violents, mais réagit à l'intensité et la durée de la pression mise sur les capteurs et une surpise vous attend avec un effort collectif! l'oeuvre comportait des haut-parleurs qui projetait des sons d'un volcans en éruption se qui rendait l'oeuvre plus intense.
 l'oeuvre comportait 4 places à l'apparence de rocher volcanique se qui améliorait l'immersion
 
 
