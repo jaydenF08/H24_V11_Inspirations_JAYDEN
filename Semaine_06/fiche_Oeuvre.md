@@ -29,4 +29,6 @@ source : https://ageofunion.com/fr/articles/2022/04/22/age-of-union-lance-le-cen
 
 ## Type d'installation: Lava cave
 
+l'exposition Lava Cave comporte des leds rouges qui nous permet de nous faire sentir qu'on est vraiment dans une chambre magmatique et le projecteur qui projecte au sol un sol magmatique très réaliste qui améliore l'expérience d'être au coeur de la planète. le mur était interactive donc lorsque on mettait de la pression en appuyant notre main contre, il y'vait de la lave qui se déversait au sol, dans la projection et plus on mettait de la pressait, plus il y'avait plus de lave qui se versait suivi de tremblement. l'oeuvre comportait des haut-parleurs qui projetait des sons d'un volcans en éruption se qui rendait l'oeuvre plus intense.
+
 
