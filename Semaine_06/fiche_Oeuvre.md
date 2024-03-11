@@ -25,4 +25,8 @@ Source : https://ageofunion.com/fr/articles/2023/04/18/age-of-union-annonce-la-s
 
 ÉCOSYSTÈME ALPHA d’Aude Guivarc’h, est une allégorie de l’état de notre planète et de l’impact des humains. Elle renvoie à l’expression « Il n’y a pas de planète B », avec un relief montagneux imprimé en 3D avec des projections de cycles naturels, de l’eau, du vent, de l’érosion et des changements de saison. Toutefois, si on avance trop près et qu’on obstrue la projection (ou, pire encore, si on touche à sa surface), l’œuvre réagit et génère une séquence de destruction, illustrant ainsi la responsabilité humaine devant la destruction de l’environnement.
 
-source : https://ageofunion.com/fr/articles/2022/04/22/age-of-union-lance-le-centre-terrestre-a-montreal                                                                                       
+source : https://ageofunion.com/fr/articles/2022/04/22/age-of-union-lance-le-centre-terrestre-a-montreal   
+
+## Type d'installation: Lava cave
+
+
