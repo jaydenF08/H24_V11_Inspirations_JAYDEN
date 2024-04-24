@@ -8,7 +8,7 @@ Rafael Lozano-Hemmer est un artiste numérique canadien-mexicain reconnu pour se
 
 ![media](Media/exposition_translation_stream.jpg) 
 ## conclusion
-Pour conclure, j'ai trouvé vraiment impressionnant de l'épreuve que l'équipe à du surmonter malgré qu'il s'agit d'une des expositions des plus simples qu'il avaient à faire mais en raison des condition du travail un peu particulier en raison qu'il se déroulait dans un endroit désertique à quelque peu perturbé leur travail et leur perseverance m'a tellement inspiré que j'aimerais beaucoup travaillé dans un domain ou mes coéquipier aurait la même motivation que l'équipe qui ont réalisé le translation stream.
+Pour conclure, j'ai trouvé vraiment impressionnant l'épreuve que l'équipe a dû surmonter, même si c'était l'une des expositions les plus simples qu'ils avaient à faire. Cependant, les conditions de travail particulières, notamment le fait qu'elle se déroulait dans un endroit désertique, ont quelque peu perturbé leur travail. Leur persévérance m'a tellement inspiré que  j'aimerais rechercher un environnement de travail où mes collègues partagent la même passion et la même détermination que l'équipe qui a réalisé le translation stream. 
 
 
 
