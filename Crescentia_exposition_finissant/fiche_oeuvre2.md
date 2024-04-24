@@ -4,6 +4,7 @@
 # Lien avec le thème Crescentia
 Puisque  l'effet papillon est un écosystème artificiel, il aurait un lien fort avec Crescentia puisque le projet souligne beaucoup l'évolution un peu comme Crescentia, qui est un genre d'arbre qui accroit puisque c'est une plante. leur similute serait du fait que Crescentia souligne la croissance de la plante et l'effet papillon l'évolution d'un nouveau départ.
 # l'installation en cours dans le studio
+![media](Media/schéma_effet_papillon.jpg) 
 # le schéma de l'installation
 # Appréciation
 # Compétence re quis pour ce projet
