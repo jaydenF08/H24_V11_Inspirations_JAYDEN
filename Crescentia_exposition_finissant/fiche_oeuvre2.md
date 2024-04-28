@@ -23,6 +23,8 @@ J'ai vraiment apprécié la complexité de cette exposition. Il y a tant de chos
 
 # 2. Sonalux
 ## Lien avec le thème Crescentia
+Ce projet pourrait avoir un lien avec Crescentia du fait que le visiteur se voit projeter dans le voyage astral tout en controlant la projection de la zone à sa guise. il pourrait avoir un lien avec Crescentia du fait qu'on dépend de la quantité de graine ou de l'eau ou de l'Arbre pour voir ou l'arbre va évoluer un peu comme Sonalux ou le visiteur essaye des trucs pour voir comment son espace évolue
+
 ## l'installation en cours dans le studio
 ## le schéma de l'installation
 ## Appréciation
