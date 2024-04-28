@@ -15,7 +15,8 @@ Ici nous pouvons voir de la façcon que l'équipe s'est organisé pour l'install
 
 ![media](Media/cartographie.jpg)
 # Appréciation
-j'ai vraiment apprécié la complexité de cette expostion, il ya tout plein de chose à dire, on peut le voir comme une sorte de jardin artificiel et je trouve sa vraiment original comme concept, le fait que c'est au visiteur doit faire en sorte d'évoluer le cycle de la pomme sans instuction mais au fait qu'il doit suivre sont propre instinct est un moyen intéressant pour rendre agréable l'expostion, le visuel était parfait
+J'ai vraiment apprécié la complexité de cette exposition. Il y a tant de choses à dire. On peut la voir comme une sorte de jardin artificiel, et je trouve ça vraiment original comme concept. Le fait que le visiteur doit faire évoluer le cycle de la pomme sans instruction, mais en suivant son propre instinct, est un moyen intéressant de rendre l'exposition agréable. Le visuel était parfait, j'étais fasciné par l'atmosphère. Cette exposition sera vraiment une expérience mémorable.
+
 # Compétence re quis pour ce projet
 # Technique utilisé que je ne connais pas
 
