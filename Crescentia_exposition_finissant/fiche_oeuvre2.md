@@ -42,8 +42,10 @@ L'exposition offre une expérience immersive unique où le visiteur devient le m
 ## Technique utilisé que je ne connais pas
 
 
-# 3. Canvas cosmique
+# 3. Canvas cosmique 
 ## Lien avec le thème Crescentia
+Cette exposition pourrait avoir un lien avec Crescentia du fait que les phénomènes déclenchés avec les planèetes pourraient être des événements naturels tels que la croissance des plantes, le cycle des saisons ou des interactions entre les éléments de la nature. Cela créerait un lien fort du fait qu'on manipule les forces de la nature.
+
 ## l'installation en cours dans le studio
 ## le schéma de l'installation
 ## Appréciation
@@ -53,6 +55,7 @@ L'exposition offre une expérience immersive unique où le visiteur devient le m
 
 # 4. Rhizomatique
 ## Lien avec le thème Crescentia
+Cette exposition pourrait avoir un lien avec Crescentia du fait que la toile est interprétée comme les racines d'un arbre et que les projecteurs pourraient représenter des éléments visuels de la nature.
 ## l'installation en cours dans le studio
 ## le schéma de l'installation
 ## Appréciation
