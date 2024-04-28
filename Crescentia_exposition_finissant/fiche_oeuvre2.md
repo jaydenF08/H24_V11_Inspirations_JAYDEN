@@ -27,7 +27,12 @@ J'ai vraiment apprécié la complexité de cette exposition. Il y a tant de chos
 Le projet pourrait avoir un lien avec Crescentia du fait que le visiteur se voit projeté dans un voyage astral tout en contrôlant la projection de la zone à sa guise. Il pourrait également être lié à Crescentia en fonction de la quantité de graines, d'eau ou de l'arbre dont on dépend pour voir comment l'arbre va évoluer, un peu comme dans Sonalux où le visiteur essaie des choses pour voir comment son espace évolue.
 
 ## l'installation en cours dans le studio
+
+Donc, on peut observer plusieurs interrupteurs, chacun ayant ses propres fonctions. On peut également remarquer que le podium où les visiteurs vont interagir avec les boutons pour changer la pièce est faite de bois afin d'être solide et de rester en place, suivie d'un carton pour permettre à l'interrupteur d'être en équilibre sur le podium.
+
+![media](Media/installation_solanux.jpg)
 ## le schéma de l'installation
+
 ## Appréciation
 ## Compétence re quis pour ce projet
 ## Technique utilisé que je ne connais pas
