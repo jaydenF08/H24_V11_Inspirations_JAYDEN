@@ -11,8 +11,11 @@ On peut voir que dans le studio il y'a des fils éparpillés un peu partout mais
 ![media](Media/schéma_effet_papillon.jpg) 
 
 # le schéma de l'installation
+Ici nous pouvons voir de la façcon que l'équipe s'est organisé pour l'installation de leur exposition' l'input qui est la façcon de déclencher se qui va se passer à l'exposition se va au meaning qui va nous permettre de comprendre qu'est ce que cela va déclencher aprèes à l'animation qui va nous montrer se que l'action qu'on a effectuer va interagir avec l'exposition.
 
+![media](Media/cartographie.jpg)
 # Appréciation
+j'ai vraiment apprécié la complexité de cette expostion, il ya tout plein de chose à dire, on peut le voir comme une sorte de jardin artificiel et je trouve sa vraiment original comme concept, le fait que c'est au visiteur doit faire en sorte d'évoluer le cycle de la pomme sans instuction mais au fait qu'il doit suivre sont propre instinct est un moyen intéressant pour rendre agréable l'expostion, le visuel était parfait
 # Compétence re quis pour ce projet
 # Technique utilisé que je ne connais pas
 
