@@ -33,8 +33,12 @@ Donc, on peut observer plusieurs interrupteurs, chacun ayant ses propres fonctio
 ![media](Media/installation_solanux.jpg)
 ## le schéma de l'installation
 ![media](Media/schéma_sonalux.jpg)
+On peut voir sur le schéma que le podium est beaucoup plus moderne et qu'il contient des LED pour le rendre un peu plus interactif. On peut aussi constater qu'il ne contient que le podium pour que le visiteur vive l'expérience de l'exposition sans être distrait par autre chose. C'est entre le visiteur et l'exposition que tout se passe.
+
 ## Appréciation
+L'exposition offre une expérience immersive unique où le visiteur devient le maître de son propre voyage. En pesant sur les boutons, j'ai pu vivre une expérience satisfaisante en transformant l'environnement qui m'entourait. Chaque essai offrait une nouvelle atmosphère, m'incitant à explorer davantage et à créer une zone qui pouvait me plaire. C'était vraiment sensationnel.
 ## Compétence re quis pour ce projet
+
 ## Technique utilisé que je ne connais pas
 
 
