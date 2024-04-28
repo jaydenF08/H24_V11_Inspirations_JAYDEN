@@ -32,7 +32,7 @@ Donc, on peut observer plusieurs interrupteurs, chacun ayant ses propres fonctio
 
 ![media](Media/installation_solanux.jpg)
 ## le schéma de l'installation
-![media](Media/installation_solanux.jpg)schéma_sonalux.jpg
+![media](Media/schéma_sonalux.jpg)
 ## Appréciation
 ## Compétence re quis pour ce projet
 ## Technique utilisé que je ne connais pas
