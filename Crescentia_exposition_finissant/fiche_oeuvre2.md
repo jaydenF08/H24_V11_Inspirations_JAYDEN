@@ -47,7 +47,12 @@ L'exposition offre une expérience immersive unique où le visiteur devient le m
 Cette exposition pourrait avoir un lien avec Crescentia du fait que les phénomènes déclenchés avec les planèetes pourraient être des événements naturels tels que la croissance des plantes, le cycle des saisons ou des interactions entre les éléments de la nature. Cela créerait un lien fort du fait qu'on manipule les forces de la nature.
 
 ## l'installation en cours dans le studio
+
+L'exposition "Canvas Cosmique" est équipée de deux projecteurs : l'un pour visualiser le déclenchement des phénomènes sur le mur, et le deuxième sur une table interactive pour obtenir un visuel de ce avec quoi l'on souhaite interagir, à l'aide de papiers munis de codes QR permettant de contrôler différentes planètes.
+
+![media](Media/installation_canvas.jpg)
 ## le schéma de l'installation
+
 ## Appréciation
 ## Compétence re quis pour ce projet
 ## Technique utilisé que je ne connais pas
