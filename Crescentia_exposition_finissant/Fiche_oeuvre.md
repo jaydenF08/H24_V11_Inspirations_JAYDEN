@@ -39,11 +39,18 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 ![media](Media/kigo_terminé.jpg)
 
 ## Fonction du dispositif
-![media](Media/kigo_vue_ensemble.jpg)
+
 
 ## Mise en espace
+-projecteur 
 
+-haut-parleur 
 
+-bandage qui forme un carré (zone du joueur)
+![media](Media/kigo_vue_ensemble.jpg)
+![media](Media/kigo_plan.jpg)
+
+source de l'image du plan: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 ## Composantes et techniques
 
 
