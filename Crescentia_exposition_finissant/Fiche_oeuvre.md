@@ -40,6 +40,9 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ## Fonction du dispositif
 
+![media](Media/kigo_fonction_dispositif.JPG)
+
+source : https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ## Mise en espace
 -projecteur 
@@ -70,12 +73,10 @@ source de l'image du plan: https://tim-montmorency.com/2024/projets/Kigo/docs/we
 #### 1 ordinateur (pour régler des paramètres de l'exposition)
 ![media](Media/Kigo_installation.jpg)
 
-#### 1 projecteur pour diffuser l'exposition
+#### 1 projecteur pour diffuser l'exposition (élément nécessaire à la mise en exposition)
 ![media](Media/Kigo_projecteur.jpg)
 
 #### Kinect V2 (capte les mouvement du visiteur pour interagir avec l'exposition)
 ![media](Media/kigo_KinectV2.jpg)
-## Élément nécessaire à la mise en exposition
-
 
 ## Expérience vécue
