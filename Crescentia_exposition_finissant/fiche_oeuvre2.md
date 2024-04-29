@@ -17,8 +17,7 @@ Ici nous pouvons voir de la façcon que l'équipe s'est organisé pour l'install
 # Appréciation
 J'ai vraiment apprécié la complexité de cette exposition. Il y a tant de choses à dire. On peut la voir comme une sorte de jardin artificiel, et je trouve ça vraiment original comme concept. Le fait que le visiteur doit faire évoluer le cycle de la pomme sans instruction, mais en suivant son propre instinct, est un moyen intéressant de rendre l'exposition agréable. Le visuel était parfait, j'étais fasciné par l'atmosphère. Cette exposition sera vraiment une expérience mémorable.
 
-# Compétence re quis pour ce projet
-# Technique utilisé que je ne connais pas
+
 
 
 # 2. Sonalux
@@ -37,9 +36,7 @@ On peut voir sur le schéma que le podium est beaucoup plus moderne et qu'il con
 
 ## Appréciation
 L'exposition offre une expérience immersive unique où le visiteur devient le maître de son propre voyage. En pesant sur les boutons, j'ai pu vivre une expérience satisfaisante en transformant l'environnement qui m'entourait. Chaque essai offrait une nouvelle atmosphère, m'incitant à explorer davantage et à créer une zone qui pouvait me plaire. C'était vraiment sensationnel.
-## Compétence re quis pour ce projet
 
-## Technique utilisé que je ne connais pas
 
 
 # 3. Canvas cosmique 
@@ -54,8 +51,7 @@ L'exposition "Canvas Cosmique" est équipée de deux projecteurs : l'un pour vis
 ## le schéma de l'installation
 ![media](Media/schema_canvas.png)
 ## Appréciation
-## Compétence re quis pour ce projet
-## Technique utilisé que je ne connais pas
+
 
 
 # 4. Rhizomatique
@@ -64,6 +60,6 @@ Cette exposition pourrait avoir un lien avec Crescentia du fait que la toile est
 ## l'installation en cours dans le studio
 ## le schéma de l'installation
 ## Appréciation
-## Compétence re quis pour ce projet
-## Technique utilisé que je ne connais pas
+
+# Analyse
 
