@@ -18,8 +18,8 @@ le fait que leur projet est en rapport avec une toile interactive, il pourrait a
 ## Installation en cours
 
 
-##Lieu de mise en exposition
-
+## Lieu de mise en exposition
+Le grand studio de l'école Montmorency
 
 ## type d'exposition : intérieur
 
