@@ -21,31 +21,31 @@ le fait que leur projet est en rapport avec une toile interactive, il pourrait a
 ##Lieu de mise en exposition
 
 
-##type d'exposition
+## type d'exposition
 
 
-###Date de la visite
+## #Date de la visite
 
 
-##Année de réalisation
+## Année de réalisation
 
 
-##Descripption de l'oeuvre
+## Descripption de l'oeuvre
 
 
-##Type d'installation
+## Type d'installation
 
 
-##Fonction du dispositif
+## Fonction du dispositif
 
 
-##Mise en espace
+## Mise en espace
 
 
-##Composantes et techniques
+## Composantes et techniques
 
 
-##Élément nécessaire à la mise en exposition
+## Élément nécessaire à la mise en exposition
 
 
-##Expérience vécue
+## Expérience vécue
