@@ -80,3 +80,4 @@ source de l'image du plan: https://tim-montmorency.com/2024/projets/Kigo/docs/we
 ![media](Media/kigo_KinectV2.jpg)
 
 ## Expérience vécue
+L'exposition Kigo est l'une des exposition que j'ai le plus apprécié car le faitque l'expositin consisatit à interagir avec celle-ci à fait en sorte que j'avais deja mon choix en tête si je devais choisir parmis toute les expositions car je suis une personne qui aime bouger et interagir avec des choses tout en l'analysant plutot que de juste la regarder. Kigo est vraiment un projet incroyable, ses un projet qui est très addictif du fait de vouloir avoir le meilleur score possible tout en évitant les obstacles le plus longtemps possible pour avoir un bon score. Le choix de la plateforme de l'exposition
