@@ -47,6 +47,8 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 -haut-parleur 
 
 -bandage qui forme un carré (zone du joueur)
+
+-Grand studio
 ![media](Media/kigo_vue_ensemble.jpg)
 ![media](Media/kigo_plan.jpg)
 
