@@ -21,8 +21,8 @@ le fait que leur projet est en rapport avec une toile interactive, il pourrait a
 ##Lieu de mise en exposition
 
 
-## type d'exposition
-Intérieur  ou est ce qu'on peut visité chaque exposition de notre plein gré.
+## type d'exposition : intérieur
+
 
 ## Date de la visite
 
