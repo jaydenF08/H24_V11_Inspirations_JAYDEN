@@ -35,11 +35,11 @@ Kigo est un projet multimédia interactif où l’interacteur doit esquiver des 
 
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
-## Type d'installation
-[media](Media/kigo_terminé.jpg)
+## Type d'installation: immersive
+![media](Media/kigo_terminé.jpg)
 
 ## Fonction du dispositif
-
+![media](Media/kigo_vue_ensemble.jpg)
 
 ## Mise en espace
 
