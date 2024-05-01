@@ -48,7 +48,7 @@ L'exposition "Canvas Cosmique" est équipée de deux projecteurs : l'un pour vis
 
 ![media](Media/installation_canvas.jpg)
 ## le schéma de l'installation
-![media](Media/schema_canvas.png)
+![media](Media/schema_canvas.jpg)
 ## Appréciation
 
 
