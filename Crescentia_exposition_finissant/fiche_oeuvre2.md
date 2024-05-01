@@ -60,6 +60,7 @@ J'ai beaucoup aimé le fait de pouvoir interagir avec les planètes. C'est un co
 ## Lien avec le thème Crescentia
 Cette exposition pourrait avoir un lien avec Crescentia du fait que la toile est interprétée comme les racines d'un arbre et que les projecteurs pourraient représenter des éléments visuels de la nature.
 ## l'installation en cours dans le studio
+![media](Media/rizhomatique_installation.jpg)
 ## le schéma de l'installation
 ## Appréciation
 
