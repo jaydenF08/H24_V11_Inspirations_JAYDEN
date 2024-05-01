@@ -48,8 +48,11 @@ L'exposition "Canvas Cosmique" est équipée de deux projecteurs : l'un pour vis
 
 ![media](Media/installation_canvas.jpg)
 ## le schéma de l'installation
+
 ![media](Media/schema_canvas.jpg)
 ## Appréciation
+
+J'ai beaucoup aimé le fait de pouvoir interagir avec les planètes. C'est un concept assez intéressant, je dirais même qu'il serait vraiment captivant de permettre aux enfants d'interagir avec cette exposition, car ils s'amuseraient tout en découvrant ce qu'est un système solaire.
 
 
 
