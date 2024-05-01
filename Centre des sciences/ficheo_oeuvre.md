@@ -1,16 +1,5 @@
 # Centre des sciences : voir l'invisible
 
-## Créateurs
-Érick Ouellette
-
-William Rathier Mailly
-
-Gabriel Clerval
-
-Nicolas St-Martin
-
-Antoine Dion
-
 
 
 
@@ -30,8 +19,7 @@ Antoine Dion
 2023
 
 ## Description de l'oeuvre
-
-
+![media](Media/histoire_expo.jpg)
 
 
 ## Type d'installation: interactive
