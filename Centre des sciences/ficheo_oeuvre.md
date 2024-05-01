@@ -8,6 +8,7 @@ Voir l'invisble
 ## Lieu de mise en exposition: Centre des sciences
  2 R. de la Commune O, Montréal, QC H2Y 4B2
 
+![media](Media/centre_des_sciences.jfif)
 
 
 ## type d'exposition : intérieur
@@ -19,7 +20,7 @@ Voir l'invisble
 ## Année de réalisation
 En 2000 mais l'oeuvre à changé de nom en 2002
 
-## Description de l'oeuvre
+## Description du dispositif
 ![media](Media/histoire_expo.jpg)
 
 
