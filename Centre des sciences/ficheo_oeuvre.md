@@ -1,8 +1,10 @@
 # Centre des sciences : voir l'invisible
 
 
-# titre du dispositif
-Voir l'invisble
+# titre du dispositif : Voir l'invisble
+
+vue d'ensemble
+![media](Media/devant_3_ecrans.jpg)
 
 
 ## Lieu de mise en exposition: Centre des sciences
