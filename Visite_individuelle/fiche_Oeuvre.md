@@ -36,7 +36,7 @@ l'oeuvre comportait 4 places à l'apparence de rocher volcanique se qui amélior
 L'exposition interactive comportait un projecteur sur la plateforme 3D qui montrait les cycles naturels et lorsqu'on pertubait le capteur sensorielle l'oeuvre réagit et nous montre une séquence de destruction pour aisni recommencer son processus de création pour être en équilibre.
 
 ## Mise en espace : Lava cave 
-
+![media](Media/vue_lava_cave.jpeg)
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
