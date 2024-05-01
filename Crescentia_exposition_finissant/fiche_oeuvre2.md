@@ -62,6 +62,8 @@ Cette exposition pourrait avoir un lien avec Crescentia du fait que la toile est
 ## l'installation en cours dans le studio
 ![media](Media/rizhomatique_installation.jpg)
 ## le schéma de l'installation
+
+![media](Media/schema_riz.jpg)
 ## Appréciation
 
 # Analyse
