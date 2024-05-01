@@ -1,7 +1,8 @@
 # Centre des sciences : voir l'invisible
 
 
-
+# titre de l'oeuvre
+Voir l'invisble
 
 
 ## Lieu de mise en exposition
@@ -16,7 +17,7 @@
 10 avril 2024
 
 ## Année de réalisation
-2023
+En 2000 mais l'oeuvre à changé de nom en 2002
 
 ## Description de l'oeuvre
 ![media](Media/histoire_expo.jpg)
