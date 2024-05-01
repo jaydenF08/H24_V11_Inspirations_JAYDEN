@@ -21,6 +21,8 @@ le fait que leur projet est en rapport avec une toile interactive, il pourrait a
 ## Lieu de mise en exposition
 Le grand studio de l'école Montmorency
 
+
+![Media](Media/lieu_exposition_Crescentia.jpg)
 ## type d'exposition : intérieur
 
 
