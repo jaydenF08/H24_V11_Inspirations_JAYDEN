@@ -26,4 +26,7 @@ Ce que j'ai particulièrement apprécié dans "Lava Cave", c'est la façon dont 
 Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session:
 "Lava Cave" présente des similitudes avec d'autres installations interactives explorant les phénomènes naturels, telles que "Écosystème Alpha" d'Aude Guivarc’h, également présentée lors de l'exposition. Ces œuvres offrent toutes deux une réflexion sur notre relation avec la nature et l'importance de la préservation de notre environnement.
 
+# Conclusion
+deuxième expéreince de ma vie, cahngé ma perception sur les expsositions
+
 
