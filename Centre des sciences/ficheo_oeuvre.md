@@ -5,7 +5,7 @@
 Voir l'invisble
 
 
-## Lieu de mise en exposition
+## Lieu de mise en exposition: Centre des sciences
  2 R. de la Commune O, Montréal, QC H2Y 4B2
 
 
