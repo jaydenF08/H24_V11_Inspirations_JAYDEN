@@ -1,7 +1,7 @@
 # Centre des sciences : voir l'invisible
 
 
-# titre de l'oeuvre
+# titre du dispositif
 Voir l'invisble
 
 
