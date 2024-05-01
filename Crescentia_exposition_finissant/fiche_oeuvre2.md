@@ -42,7 +42,6 @@ L'exposition offre une expérience immersive unique où le visiteur devient le m
 # 3. Canvas cosmique 
 ## Lien avec le thème Crescentia
 Cette exposition pourrait avoir un lien avec Crescentia du fait que les phénomènes déclenchés avec les planèetes pourraient être des événements naturels tels que la croissance des plantes, le cycle des saisons ou des interactions entre les éléments de la nature. Cela créerait un lien fort du fait qu'on manipule les forces de la nature.
-
 ## l'installation en cours dans le studio
 
 L'exposition "Canvas Cosmique" est équipée de deux projecteurs : l'un pour visualiser le déclenchement des phénomènes sur le mur, et le deuxième sur une table interactive pour obtenir un visuel de ce avec quoi l'on souhaite interagir, à l'aide de papiers munis de codes QR permettant de contrôler différentes planètes.
@@ -62,4 +61,6 @@ Cette exposition pourrait avoir un lien avec Crescentia du fait que la toile est
 ## Appréciation
 
 # Analyse
+Selon-moi, il est logique que le cours qui me semble incontournable pour tout les projets est le cours de domaines multimédias puisqu'ils doivent se familiariser avec un ordinateur, les périphériques et les réseaux pour ainsi savoir bien exploiter la technologie pour pouvoir rendre leur projet réel.  pour l'exposition Effet papillon il me semble logique qu'ils aient besoin d'avoir le cours d'audio pour faire les bruit sonore de l'environnment de leur projet qui est en rappport avec la nature, donc des bruits d'oiseaux, de feuille, le tonnerre ect... Après, le cours de Web à du été important pour leur projet pour l'animation des racines et des transition au racine qui pousse en croissance à mesure qu'on avance dans l'exposition. Pour Sonalux, les cours d'animation ont été important pour pouvoir céez
+
 
